@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/sashapop10" target="_blank">Alexander</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
 
 <div  align="center">
   <code> 🐱‍💻 <b>8 years</b> in IT </code>
