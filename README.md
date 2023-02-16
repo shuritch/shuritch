@@ -16,7 +16,7 @@
   <code> 🔍 <b>SEO</b> </code>
 </div>
 
-<div  align="center" >
+<div  align="center" style="margin-top:20px" >
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sashapop10&theme=icegray&hide_border=true&border_radius=0)](https://github.com/sashapop10)
 
