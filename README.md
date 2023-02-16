@@ -1,12 +1,19 @@
-<code> 🐱‍💻 **7 years** in IT </code>
-<code> 🐱‍🐉 **NodeJs & JavaScript** as favorite</code>
-<code> 🐱‍👓 **Software engineering** </code>
-<code> 🐱‍🏍 **Architecture** </code>
-<code> 🐱‍🚀 **DevSpecOps** </code>
-<code> 🐱‍👤 **Pentest & Reverse engineering** as hobby</code>
-<code> 🗃️ **Databases**</code>
-<code> 🦾 **Cybernetics** </code>
-<code> 🌐 **Distributed systems** </code>
-<code> 👨‍🍳 **Frontend & Backend** </code>
-<code> 👨‍🔬 **Testing** </code>
-<code> 🔍 **SEO** </code>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexander</a> 
+<img src="https://github.com/sashapop10/sashapop10/imgs/Hi.gif" height="32"/></h1>
+
+<div  align="center">
+  <code> 🐱‍💻 <b>7 years</b> in IT </code>
+  <code> 🐱‍🐉 <b>NodeJs & JavaScript</b> as favorite</code>
+  <code> 🐱‍👓 <b>Software engineering</b> </code>
+  <code> 🐱‍🏍 <b>Architecture</b> </code>
+  <code> 🐱‍🚀 <b>DevSpecOps</b> </code>
+  <code> 🐱‍👤 <b>Pentest & Reverse engineering</b> as hobby</code>
+  <code> 🗃️ <b>Databases</b></code>
+  <code> 🦾 <b>Cybernetics</b> </code>
+  <code> 🌐 <b>Distributed systems</b> </code>
+  <code> 👨‍🍳 <b>Frontend & Backend</b> </code>
+  <code> 👨‍🔬 <b>Testing</b> </code>
+  <code> 🔍 <b>SEO</b> </code>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sashapop10&theme=icegray&hide_border=true&border_radius=0)](https://git.io/streak-stats)
