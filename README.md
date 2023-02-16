@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div markdown="1" align="center">
+<div  align="center">
   <code> 🐱‍💻 <b>7 years</b> in IT </code>
   <code> 🐱‍🐉 <b>NodeJs & JavaScript</b> as favorite</code>
   <code> 🐱‍👓 <b>Software engineering</b> </code>
@@ -16,6 +16,8 @@
   <code> 🔍 <b>SEO</b> </code>
 </div>
 
-<div align="center" markdown="1">
-[![GitHub Streak](https://streak-stats.demolab.com?user=sashapop10&theme=icegray&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+<div  align="center" >
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sashapop10&theme=icegray&hide_border=true&border_radius=0)](https://github.com/sashapop10)
+
 </div>
