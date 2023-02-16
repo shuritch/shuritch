@@ -1,16 +1,14 @@
-### Hi there 👋
+<code> 🐱‍💻 **7 years** in IT </code>
+<code> 🐱‍🐉 **NodeJs & JavaScript** as favorite</code>
 
-<!--
-**sashapop10/sashapop10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code> 🐱‍👓 **Software engineering** </code>
+<code> 🐱‍🏍 **Architecture** </code>
+<code> 🐱‍🚀 **DevSpecOps** </code>
+<code> 🐱‍👤 **Pentest & Reverse engineering** as hobby</code>
+<code> 🗃️ **Databases**</code>
+<code> 🦾 **Cybernetics** </code>
+<code> 🌐 **Distributed systems** </code>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code> 👨‍🍳 **Frontend & Backend** </code>
+<code> 👨‍🔬 **Testing** </code>
+<code> 🔍 **SEO** </code>
