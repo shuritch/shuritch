@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div  align="center">
-  <code> 🐱‍💻 <b>7 years</b> in IT </code>
+  <code> 🐱‍💻 <b>8 years</b> in IT </code>
   <code> 🐱‍🐉 <b>NodeJs & JavaScript</b> as favorite</code>
   <code> 🐱‍👓 <b>Software engineering</b> </code>
   <code> 🐱‍🏍 <b>Architecture</b> </code>
