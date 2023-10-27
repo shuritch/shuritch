@@ -1,5 +1,5 @@
 ```js
-const MAGIC = 'HELLO THERE FELLOW STRANER';
+const MAGIC = 'HELLO THERE FELLOW STRANGER';
 const TODO = '-> TAKE A LOOK AROUND <-';
 module.exports = {
   years: "8+ years in IT",
