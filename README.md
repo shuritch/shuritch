@@ -1,5 +1,6 @@
 ```js
-const MAGIC = 'HELLO THERE';
+const MAGIC = 'HELLO THERE FELLOW STRANER';
+const TODO = '-> TAKE A LOOK AROUND <-';
 module.exports = {
   years: "8+ years in IT",
   hobby: "Pentest & Reverse engineering 🕵🏻",
