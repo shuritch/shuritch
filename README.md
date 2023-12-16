@@ -11,7 +11,7 @@ module.exports = {
     "🧙🏼 Distributed systems",
     "👨‍🔬 Tests wrtiting",
     "🧑🏻‍⚖️ Architecture",
-    "👨🏼‍🔧 DevSpecOps",
+    "👨🏼‍🔧 DevSecOps",
     "🦾 Cybernetics",
     "🗃️ Databases",
     "🔍 SEO"
