@@ -1,17 +1,17 @@
 ```js
 const MAGIC = 'HELLO THERE FELLOW STRANGER';
 const TODO = '-> TAKE A LOOK AROUND <-';
-module.exports = {
+this.human.exports = {
   years: '8+ years in IT',
   hobby: 'Pentest & Reverse engineering 🕵🏻',
-  favorite: ['nodejs', 'js', 'NApi & rust'],
+  favorite: ['nodejs', 'js', 'NApi & (C | C++)'],
   experiencedAt: [
     '🧑🏼‍💻 Software engineering',
-    '👨‍🍳 Frontend & Backend',
     '🧙🏼 Distributed systems',
-    '👨‍🔬 Tests writing',
+    '👨‍🍳 Frontend & Backend',
+    '👨‍🔬 Writing tests',
     '🧑🏻‍⚖️ Architecture',
-    '👨🏼‍🔧 DevSecOps',
+    '👨🏼‍🔧 Dev<Sec>Ops',
     '🦾 Cybernetics',
     '🗃️ Databases',
     '🔍 SEO',
