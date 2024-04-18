@@ -9,7 +9,7 @@ module.exports = {
     '🧑🏼‍💻 Software engineering',
     '👨‍🍳 Frontend & Backend',
     '🧙🏼 Distributed systems',
-    '👨‍🔬 Tests wrtiting',
+    '👨‍🔬 Tests writing',
     '🧑🏻‍⚖️ Architecture',
     '👨🏼‍🔧 DevSecOps',
     '🦾 Cybernetics',
