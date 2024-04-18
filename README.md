@@ -9,6 +9,7 @@ this.human.exports = {
     '🧑🏼‍💻 Software engineering',
     '🧙🏼 Distributed systems',
     '👨‍🍳 Frontend & Backend',
+    '🧑🏻‍🏫 Publishing articles',
     '👨‍🔬 Writing tests',
     '🧑🏻‍⚖️ Architecture',
     '👨🏼‍🔧 Dev<Sec>Ops',
