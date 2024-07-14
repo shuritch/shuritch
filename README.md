@@ -4,18 +4,19 @@ const TODO = '-> TAKE A LOOK AROUND <-';
 this.human.exports = {
   years: '8+ years in IT',
   hobby: 'Pentest & Reverse engineering 🕵🏻',
-  favorite: ['nodejs', 'js', 'NApi & (C | C++)'],
+  favorite: ['Nodejs', 'JS', 'NApi & (C | C++)'],
   experiencedAt: [
     '🧑🏼‍💻 Software engineering',
     '🧙🏼 Distributed systems',
-    '👨‍🍳 Frontend & Backend',
-    '🧑🏻‍🏫 Publishing articles',
-    '👨‍🔬 Writing tests',
+    '👨🏻‍🏫 Publishing articles',
+    '👨🏼‍🍳 Frontend & Backend',
+    '🧑🏻‍🔬 Quality Assurance',
     '🧑🏻‍⚖️ Architecture',
     '👨🏼‍🔧 Dev<Sec>Ops',
-    '🦾 Cybernetics',
-    '🗃️ Databases',
-    '🔍 SEO',
+    '🧑🏻‍🏭 Cybernetics',
+    '🧑🏼‍🚀 Opensource',
+    '👷🏻‍♂️ Databases',
+    '🥷🏻 SEO',
   ],
 };
 ```
