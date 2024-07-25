@@ -4,7 +4,7 @@ const TODO = '-> TAKE A LOOK AROUND <-';
 this.human.exports = {
   years: '8+ years in IT',
   hobby: 'Pentest & Reverse engineering 🕵🏻',
-  favorite: ['Nodejs', 'JS', 'NApi & (C | C++)'],
+  favorite: ['Nodejs', 'JS', 'NApi & C', 'Nix'],
   experiencedAt: [
     '🧑🏼‍💻 Software engineering',
     '🧙🏼 Distributed systems',
